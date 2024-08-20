@@ -1,4 +1,4 @@
-# Swup Class Documentation
+# Swup Documentation
 
 The `Swup` class allows interaction with the Swup API for managing currencies, balances, exchanges, and creating invoices. This class supports asynchronous requests to the API using `GET` and `POST` HTTP methods.
 
